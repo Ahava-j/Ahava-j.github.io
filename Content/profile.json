@@ -41,9 +41,9 @@
     "DetailImages": ["P2Detail1.png","P2Detail2.png","P2Detail3.png","P2Detail4.png"]
   },
   "Project3": {
-    "Title": "Interesting Project 3",
-    "Desc": "This is a description of Project Three.<br><br>It does not have a GitHub repo or any additional screenshots.",
-    "GitHubRepo": "",
+    "Title": "Task Manager",
+    "Desc": "This is a do to list task manager.",
+    "GitHubRepo": "https://github.com/Ahava-j/Task-Manager",
     "MainImage": "P3Main.png",
     "DetailImages": []
   },
