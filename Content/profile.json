@@ -31,11 +31,13 @@
     "Desc": "This is a comprehensive document that outlines SilentSignal's objectives, requirements, functionalities, and design. It also includes a structured collection of information that embodies the requirements of SilentSignal, a mobile application.",
     "GitHubRepo": "https://github.com/Ahava-j/Task-manager-test.git",
     "MainImage": "P1Main.png",
+   "DetailImages": []
   },
   "Project2": {
     "Title": "Task Manager",
     "Desc": "This is a do to list task manager.",
     "GitHubRepo": "https://github.com/Ahava-j/Task-Manager",
     "MainImage": "ToDoLIST.png",
+     "DetailImages": []
   }
 }
