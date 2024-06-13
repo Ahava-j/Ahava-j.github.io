@@ -20,9 +20,9 @@
   "Graduation": "June 2025",
   "EducationText": "Use this to add some narrative to your education section",
   "Employment": "Seattle Pacific University",
-  "Role": "Computer Science Lab Assistant",
+  "Role": "Computer Science Grader for Data Structures",
   "EmploymentText": "Use this to add some narrative to your employment section",
-  "Skills": ["C++", " JavaScript", " Node", " CSS"," HTML"],
+  "Skills": ["C++", "Python", "JavaScript", " CSS"," HTML"],
   "SkillsText": "Use this to add some narrative to your skills section",
   "Resume": "student-resume.pdf"  
 },
