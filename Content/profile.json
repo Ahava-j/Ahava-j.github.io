@@ -4,7 +4,7 @@
   "Currently": "Computer Science Student",
   "Headshot": "student-portrait.jpg",
   "Thumbnail": "student-logo.webp",
-  "AboutText": "Hi, I am Jazmin. I am a passionate computer science student with a keen interest in software development and programming. Currently, I am pursuing my undergraduate degree at Seattle Pacific University. I am dedicated to expanding my knowledge and skills in various areas of computer science, with a particular focus on C++ programming.<br><br>I enjoy tackling challenging programming projects and I thrive in collaborative environments where I can contribute my expertise and learn from my peers.<br><br>Beyond the classroom, I actively engage in extracurricular activities related to computer science, including hackathons, coding competitions, and open-source contributions. I believe in the importance of continuous learning and seek out opportunities to explore new technologies and methodologies."
+  "AboutText":"Hello, I am a third-year Computer Science student with a minor in Communications at Seattle Pacific University. My interests extend to utilizing technology in addressing critical societal issues. I am particularly passionate about leveraging technology for anti-trafficking initiatives and forensic science applications. Currently, I am actively seeking a summer 2024 internship related to anti-trafficking technology solutions. I am excited about the potential to contribute meaningful projects and make a positive impact. If you have insights, job opportunities, or wish to connect and discuss how we can have influence through technology, please feel free to contact me."
 },
 "Contact": {
   "EMail": "chavezj3@spu.edu",
@@ -28,10 +28,9 @@
 },
 "Project1": {
     "Title": "System Proposal & System Specification",
-    "Desc": "This is a comprehensive document that outlines a SilentSignal's objectives, requirements, functionalities, and design. It also includes avstructured collection of information that embodies the requirements of SilentSignal, a mobile application.",
+    "Desc": "This is a comprehensive document that outlines SilentSignal's objectives, requirements, functionalities, and design. It also includes a structured collection of information that embodies the requirements of SilentSignal, a mobile application.",
     "GitHubRepo": "https://github.com/Ahava-j/Task-manager-test.git",
     "MainImage": "P1Main.png",
-    "DetailImages": ["P1Detail1.png","P1Detail2.png","P1Detail3.png"]
   },
   "Project2": {
     "Title": "System Specification",
