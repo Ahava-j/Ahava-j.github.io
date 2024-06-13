@@ -33,17 +33,9 @@
     "MainImage": "P1Main.png",
   },
   "Project2": {
-    "Title": "System Specification",
-    "Desc": "",
-    "GitHubRepo": "https://github.com",
-    "MainImage": "P2Main.png",
-    "DetailImages": ["P2Detail1.png","P2Detail2.png","P2Detail3.png","P2Detail4.png"]
-  },
-  "Project3": {
     "Title": "Task Manager",
     "Desc": "This is a do to list task manager.",
     "GitHubRepo": "https://github.com/Ahava-j/Task-Manager",
     "MainImage": "ToDoLIST.png",
-    "DetailImages": []
   }
 }
