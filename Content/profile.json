@@ -26,22 +26,22 @@
   "Resume": "student-resume.pdf"  
 },
 "Project1": {
-    "Title": "System Proposal & System Specification",
-    "Desc": "This is a comprehensive document that outlines SilentSignal's objectives, requirements, functionalities, and design. It also includes a structured collection of information that embodies the requirements of SilentSignal, a mobile application.",
+    "Title": "System Proposal & System Specification - Individual Project",
+    "Desc": "This is a comprehensive document that outlines SilentSignal's objectives, requirements, functionalities, and design. It also includes a structured collection of information that embodies the requirements of SilentSignal, a mobile application. As part of a systems design project, the document details the architecture, data flow, and technical specifications necessary for the development and deployment of SilentSignal. It incorporates user stories, wireframes, and a thorough analysis of both functional and non-functional requirements to ensure the application meets user needs while maintaining scalability and efficiency. Completing this project enhanced my skills in systems analysis, technical documentation, and user-centric design while strengthening my ability to work collaboratively on complex technical challenges and improve critical thinking and problem-solving competencies.",
     "GitHubRepo": "https://github.com/Ahava-j/Task-manager-test.git",
     "MainImage": "P1Main.png",
    "DetailImages": []
   },
   "Project2": {
-    "Title": "Task Manager",
+    "Title": "Task Manager - Individual Project",
     "Desc": "This is a do to list task manager.",
     "GitHubRepo": "https://github.com/Ahava-j/Task-Manager",
     "MainImage": "ToDoLIST.png",
      "DetailImages": []
   },
   "Project3": {
-    "Title": "C++ Certification",
-    "Desc": "This certification validates my ability to complete coding tasks focused on the foundational elements of C++, including the use of the standard library, preprocessor directives, and object-oriented programming principles. It demonstrates my proficiency in core C++ concepts and readiness for professional programming challenges.",
+    "Title": "C++ Certification  - Individual Project",
+    "Desc": "This certification validates my ability to complete coding tasks focused on the foundational elements of C++, including the use of the standard library, preprocessor directives, and object-oriented programming principles. It demonstrates not only my proficiency in core C++ concepts but also my readiness to tackle professional programming challenges with confidence and precision. Earning this certification reflects my commitment to mastering the technical skills necessary for building efficient and scalable software solutions. It also highlights my ability to adapt to evolving technologies and apply fundamental principles across a variety of programming languages and paradigms, making me a competent and versatile programmer. While this certification equips me with a strong technical foundation, it also signifies my dedication to continual growth and learning in an ever-changing industry, ensuring that I remain capable of contributing effectively to both individual and team-based projects.",
     "MainImage": "Certifications.png",
    "DetailImages": []
   }
