@@ -4,7 +4,7 @@
   "Currently": "Computer Science Student",
   "Headshot": "student-portrait.jpg",
   "Thumbnail": "student-logo.webp",
-  "AboutText":"Hello, I am a third-year Computer Science student with a minor in Communications at Seattle Pacific University. My interests extend to utilizing technology in addressing critical societal issues. I am particularly passionate about leveraging technology for anti-trafficking initiatives and forensic science applications. Currently, I am actively seeking a summer 2024 internship related to anti-trafficking technology solutions. I am excited about the potential to contribute meaningful projects and make a positive impact. If you have insights, job opportunities, or wish to connect and discuss how we can have influence through technology, please feel free to contact me."
+  "AboutText":"Hello, I am a third-year Computer Science student with a minor in Communications at Seattle Pacific University. My interests extend to utilizing technology in addressing critical societal issues. I am particularly passionate about leveraging technology for anti-trafficking initiatives and forensic science applications. Currently, I am actively seeking an internship related to cybersecurity. I am excited about the potential to contribute meaningful projects and make a positive impact. If you have insights, job opportunities, or wish to connect and discuss how we can have influence through technology, please feel free to contact me."
 },
 "Contact": {
   "EMail": "chavezj3@spu.edu",
@@ -14,16 +14,15 @@
   "GitHub": "https://github.com/Ahava-j"
 },
 "Experience": {
-  "ExperienceText": "Use this area to explain how you got to where you are and what you are currently doing now.<br><br>This is a good spot to talk yourself up.",
   "School": "Seattle Pacific University",
   "Major": "Computer Science",
   "Graduation": "June 2025",
-  "EducationText": "Use this to add some narrative to your education section",
+  "EducationText": "As a Computer Science major with a minor in Communications, I bring a unique blend of technical expertise and interpersonal skills to the table. My Communications studies have taught me how to foster collaboration and create an inclusive environment where everyone feels heard. I am especially passionate about building spaces where quieter team members feel comfortable sharing their ideas, ensuring that every voice contributes to innovative solutions. This balance of technical knowledge and strong team dynamics enables me to approach challenges with creativity and empathy.",
   "Employment": "Seattle Pacific University",
   "Role": "Computer Science Grader for Data Structures",
-  "EmploymentText": "Use this to add some narrative to your employment section",
+  "EmploymentText": "As a Teaching Assistant for Data Structures 1, I evaluated and graded student assignments and projects, with a primary focus on C++ programming, ensuring that all work adhered to the provided rubric. I provided detailed and constructive feedback to students, helping them deepen their understanding of the material and improve their coding skills. Additionally, I collaborated closely with the course instructor to maintain consistency in grading and uphold academic standards, demonstrating strong attention to detail and effective communication throughout the process.",
   "Skills": ["C++", "Python", "JavaScript", " CSS"," HTML"],
-  "SkillsText": "Use this to add some narrative to your skills section",
+  "SkillsText": "I possess a strong technical foundation with proficiency in C++, complemented by foundational knowledge in Python, R, JavaScript, HTML, CSS, Go, and Prolog. My experience includes working with a variety of tools and technologies such as JetBrains CLion, Visual Studio Code, RStudio, Google Colab, Jupyter, GitHub, Docker, and Valgrind. Beyond technical skills, I am highly goal-oriented, organized, and charismatic, with strong communication and interpersonal abilities. My empathetic leadership style has enabled me to foster inclusive and high-performing team environments. ",
   "Resume": "student-resume.pdf"  
 },
 "Project1": {
